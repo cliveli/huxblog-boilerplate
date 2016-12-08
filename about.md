@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-about
+暂时没啥好说的。

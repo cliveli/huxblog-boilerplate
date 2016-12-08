@@ -1,12 +1,12 @@
 # Site settings
-title: 博客标题
-subtitle: 博客副标题
-description: 博客描述
+title: Clive's Blog
+subtitle: Clive Li | Clive's Blog
+description: N/A
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # 你的域名
+url: "http://cliveli.github.io" # 你的域名
 page_no_title: "No title" # 文章无标题时默认显示内容
 beian: # "备案号"
-email: email@yourdomain.com
+email: cliveli2011@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -17,8 +17,8 @@ paginate: 10 # 分页大小
 paginate_path: ":num"
 
 # Search settings
-baidu_search: true
-google_search: # true
+baidu_search: #true
+google_search:  true
 
 # Menu settings
 menu:
@@ -40,9 +40,4 @@ menu:
 
 # Link settings
 links: # 友情链接
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+
