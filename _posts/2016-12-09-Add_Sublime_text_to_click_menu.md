@@ -13,7 +13,7 @@ tags:
 
 Save following code as a bat file (change the sublime_text.exe path if you installed it to another location), run it as Administrator.
 
-~~~
+~~~ bat
 
 @echo off
 SET st3Path=C:\Program Files\Sublime Text 3\sublime_text.exe
