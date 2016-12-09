@@ -13,6 +13,9 @@ markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
 
+kramdown:
+  input: GFM
+  auto_ids: true
 # Pageinate settings
 paginate: 10 # 分页大小
 paginate_path: ":num"
