@@ -41,3 +41,5 @@ menu:
 # Link settings
 links: # 友情链接
 
+# Disqus settings
+disqus_username: clivedevlog
