@@ -6,7 +6,8 @@ date:       2016-12-09
 author:     "Clive Li"
 categories:  Tech
 tags:
-    - Windows Sublime
+    - Windows 
+    - Sublime
 ---
 
 
