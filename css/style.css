@@ -924,6 +924,9 @@ i {
 .icon-archive:before {
   content: "\e904"; }
 
+.icon-tags:before {
+  content: "\e936"; }
+
 /* post navigator*/
 .post-nav {
   overflow: hidden;
