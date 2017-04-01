@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Add Sublime Text 3 to the Windows right click menu"
+title:      "Add Sublime Text 3 to the Windows Right click menu"
 subtitle:   ""
 date:       2016-12-09
 author:     "Clive Li"
