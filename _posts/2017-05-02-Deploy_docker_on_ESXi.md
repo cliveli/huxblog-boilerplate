@@ -45,8 +45,8 @@ docker-machine create -d vmwarevsphere --vmwarevsphere-username=<<vSphere USER>>
 ##使用
 创建好machine后，通过docker-machine env，切换到esxi这个machine下，就和普通的machine没有任何区别了
 
-![](/_media/dockeresxi.jpg)
+![](/media/dockeresxi.jpg)
 
-![](/_media/dockerimages.jpg)
+![](/media/dockerimages.jpg)
 
-![](/_media/dockerps.jpg)
+![](/media/dockerps.jpg)
